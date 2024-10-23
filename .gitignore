@@ -1,0 +1,7 @@
+./data/*
+*.env
+*.csv
+*.xlsm
+*.xml
+*.gpkg
+*.ini
